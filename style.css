@@ -1,0 +1,90 @@
+
+
+.osnova {background-color:#ccccff}
+.prvi   {background-color:#ffffff;margin-top:40px;border-top:5px solid #5c8a8a; margin-bottom:40px;}
+
+.logo {margin-top:-20px; margin-bottom:-20px;}
+
+
+
+.carousel-inner > .item > img,
+  .carousel-inner > .item > a > img {
+      width:100%;
+      margin:auto;
+  }
+  .treci {margin-top: -10px; width:100%; }
+  .menu {width:cover; margin-left:14px; margin-right:14px;border:none ;
+  border-radius:0px; background-color:#008080;
+  }
+  
+ .menu ul {margin-left:-15px;}
+ 
+
+.navbar-inverse .navbar-nav > li > a { color:black;}
+.navbar-inverse .navbar-nav > li > a:hover {background-color:black; color:white;
+ transition: background 2s linear;}
+ 
+ .naslov { margin-left:-25px; text-align:center;margin-top:40px; font-size:20px;margin-bottom:50px;}
+ 
+ h2{ font-size:14pt; text-align:center; }
+ 
+ p {font-size:12pt;}
+ 
+ .clanci {margin-right:auto;margin-left:auto; margin-bottom:50px;}
+
+ 
+ .one {background-color: #003399; color:white;padding:8px 20px;}
+ 
+ .two {background-color:#6699ff;color:white;padding:8px 25px;}
+ .three {background-color: #40bf80; color:white;padding:8px 20px;}
+ 
+ 
+ .passion {background-color: black; width:98%;}
+ 
+ .passion img { width:102%;}
+ 
+ 
+ 
+.footer {background-color:#404040; color:white; margin-left:-15px;width:cover; margin-right:-15px;}
+ 
+ .move {position:relative; width:80px; margin-bottom:10px;}
+ .move1 {position:relative; width:80px;}
+ .move2 {position:relative; width:80px;}
+ .move3 {position:relative; width:80px;}
+ 
+ .linkovi {background-color:#e6e6e6; width:98%;}
+ .linkovi h2 {font-size:11pt; font-weight:bold; text-align:justify;}
+ 
+ .linkovi p {font-size:10pt; color:	#666666;}
+ 
+ .linkovi a {color: #666666;}
+ 
+ .strelica { font-size:8pt; margin-right: 5px;}
+ 
+ .face {width:35px; height:34px;}
+ .insta {width:35px; height:34px;}
+ 
+ .footer p {font-size:11pt;padding-left:20px; padding-top:28px;}
+ 
+ .text-right p {font-size:11pt; padding-top:23px; padding-bottom:23px; padding-right:20px; }
+ 
+ .blog {text-align:center;width:100%;}
+ .blog img {width:100%; margin-bottom:20px;}
+ .blog h2 {text-align:center; font-size:12pt; font-weight:bold;margin-bottom:30px;}
+ 
+ .blog p {margin-bottom:20px; text-align:justify;}
+ 
+ .blog h3 {font-weight:bold; text-align:justify; font-size:10pt;}
+ 
+ .biografijacontainer {text-align:left;width:100%;}
+ 
+ .biografija h2 {text-align:left;}
+ .biografija p {line-height: 300%;}
+ 
+ .imgbio {width:55%; height:55%; margin-top:20px;}
+ 
+ .mapa {margin-bottom:20px;}
+ 
+ 
+ 
+ 
